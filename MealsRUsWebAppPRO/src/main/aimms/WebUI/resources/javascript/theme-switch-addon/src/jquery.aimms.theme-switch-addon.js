@@ -15,6 +15,7 @@
 				<select>\
 					<option value="default">Default theme</option>\
 					<option value="dark">Dark theme</option>\
+					<option value="dark-Copy">Dark-Copy theme</option>\
 				</select>\
 			</div>');
 
